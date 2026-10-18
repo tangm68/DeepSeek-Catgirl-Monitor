@@ -1,7 +1,6 @@
 import requests
 import time
 
-# ⚠️ 请务必替换为你自己的 Key
 API_KEY = "sk-你的API_KEY" 
 SERVERCHAN_KEY = "SCT你的KEY" 
 
