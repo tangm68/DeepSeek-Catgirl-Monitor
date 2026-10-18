@@ -32,8 +32,6 @@
 然后新建文件 `nano Boss.py`，将以下代码粘贴进去：
 
 ```python
-import requests
-import time
 
 import requests
 import time
