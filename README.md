@@ -98,8 +98,6 @@ while True:
 ### 📄 台词库 (lines.txt)
 
 ```python
-import requests
-import time
 
 主人，本喵今天绝对没有偷吃，只掉了一点点渣渣喵～
 Ciallo～(∠・ω< )⌒☆ 钱包很安全，猫娘要睡觉了喵！
