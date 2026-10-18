@@ -16,7 +16,7 @@
 ## 🚀 快速开始
 1. 安装 Python 环境。
 2. 安装依赖：`pip install requests`
-3. 获取你的 `API_KEY`（DeepSeek 后台）和 `SERVERCHAN_KEY`（Server酱后台）。
+3. 获取你的 `API_KEY`（DeepSeek 后台） https://www.deepseek.com/cn/ 和 `SERVERCHAN_KEY`（Server酱后台）。
 4. 将 Key 填入代码中，运行 `python boss.py`。
 
 ## 📁 目录结构
