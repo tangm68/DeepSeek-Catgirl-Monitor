@@ -11,7 +11,7 @@
 - **双重版本**：
   - `boss_simple.py`：极简纯净版，只看数据。
   - `boss_catgirl.py`：二次元整活版，每次打卡随机从 `lines.txt` 抽取一句台词（自带 Ciallo～(∠・ω< )⌒☆）。
-- **微信推送**：接入 Server酱（Turbo版），消息秒达。
+- **微信推送**：接入 Server酱（Turbo版），消息秒达。（https://sct.ftqq.com/）
 
 ## 🚀 快速开始
 1. 安装 Python 环境。
