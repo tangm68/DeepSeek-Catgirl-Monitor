@@ -95,5 +95,15 @@ while True:
 
     last_balance = current_balance
 ```
+### 📄 台词库 (lines.txt)
+
+```python
+import requests
+import time
+
+主人，本喵今天绝对没有偷吃，只掉了一点点渣渣喵～
+Ciallo～(∠・ω< )⌒☆ 钱包很安全，猫娘要睡觉了喵！
+报告主人，余额平稳下降中，本喵的猫粮还够吃喵。```
+
 ## ⚠️ 免责声明
 本脚本仅供学习交流，请勿将含有真实 API Key 的代码上传至公开仓库。
