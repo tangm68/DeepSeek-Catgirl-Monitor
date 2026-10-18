@@ -29,7 +29,7 @@
 请在 Termux 中运行以下命令安装依赖：
 `pip install requests`
 
-然后新建文件 `nano Boss.py`，将以下代码粘贴进去：
+然后新建文件 `nano boss_catgirl.py`，将以下代码粘贴进去：
 
 ```python
 
