@@ -22,7 +22,7 @@
 ## 📁 目录结构
 - `boss_simple.py` (极简版)
 - `boss_catgirl.py` (猫娘版)
-- `lines.txt` (猫娘台词库，请保存为 UTF-8 编码)
+- `lines.txt` (猫娘台词库)
   电脑版暂未上传
   ### 📱 手机版 (Termux-Boss.py)
 
